@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!--ruffle-->
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+</head>
+<body style="background-color: rgb(37, 41, 95);"></body>
+    <div class="row d-flex justify-content-center">
+        <div class="flasher mt-5"><embed src="../swf/abobbos-big-adventure.swf"></div><script src="/ruffle/ruffle.js"></script><style>
+  .flasher {
+    display: flex;
+    justify-content: center; /* centraliza na horizontal */
+    align-items: center;    /* centraliza na vertical */
+    min-height: 100vh;      /* ocupa a tela inteira */
+  }
+  
+  .flasher embed {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+    </div>
+</body>
+</html>
+
