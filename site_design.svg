@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="site_design.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.32"
+     inkscape:cx="497.34848"
+     inkscape:cy="379.16667"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="250.52868"
+       y="183.57705"
+       width="345.5568"
+       height="61.552306"
+       id="rect2" />
+    <rect
+       x="237.5703"
+       y="37.795276"
+       width="541.01238"
+       height="168.45895"
+       id="rect7" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.439496;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect1"
+       width="47.436188"
+       height="36.731285"
+       x="401.98917"
+       y="258.81909"
+       ry="9.226759" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use1"
+       transform="translate(50.865976)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use2"
+       transform="translate(102.8142)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1"
+       id="use3"
+       transform="translate(102.8142)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use4"
+       transform="translate(4.5644563e-6,45.80901)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1"
+       id="use5"
+       transform="translate(4.5644563e-6,45.80901)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use2"
+       id="use6"
+       transform="translate(4.5644563e-6,45.80901)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3"
+       id="use7"
+       transform="translate(4.5644563e-6,45.80901)" />
+    <text
+       xml:space="preserve"
+       id="text7"
+       style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.88;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(0.39534996,0,0,0.67819828,539.77903,141.13708)"><tspan
+         x="237.57031"
+         y="61.81507"
+         id="tspan3">^Categorias</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2"
+       style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"
+       transform="matrix(0.39534996,0,0,0.67819828,222.89762,42.374451)"><tspan
+         x="250.5293"
+         y="207.59632"
+         id="tspan4">Game Repo</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use8"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1"
+       id="use9"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use2"
+       id="use10"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3"
+       id="use11"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4"
+       id="use12"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use5"
+       id="use13"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6"
+       id="use14"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use7"
+       id="use15"
+       transform="translate(4.5644563e-6,90.867049)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.466064;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="rect15"
+       width="43.105152"
+       height="176.13211"
+       x="320.55267"
+       y="253.81102"
+       ry="13.379861" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect15"
+       id="use16"
+       transform="translate(320.43905)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use16"
+       id="use17"
+       transform="matrix(0,0.9866163,-1.0135653,0,844.8943,-185.46431)" />
+    <g
+       id="g17">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.29895;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+         id="rect9"
+         width="412.75775"
+         height="43.50383"
+         x="298.94638"
+         y="152.49648" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10.1892;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"
+         id="rect17"
+         width="415.98074"
+         height="402.56851"
+         x="297.98486"
+         y="152.93576" />
+    </g>
+  </g>
+</svg>
